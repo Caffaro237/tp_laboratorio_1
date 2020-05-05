@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1588703869 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\informar_resultados.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588701734 c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\prototipos.h
+
+1588704022 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588703302 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\menu_opciones.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588635876 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\funcion_division.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588634301 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\funcion_factorial.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588634301 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\funcion_multiplicacion.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588635611 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\funcion_resta.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588634301 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\funcion_suma.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588691254 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\resetear_flags.c
+
+1588648371 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\calculos_realizados.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588703874 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\new folder\tp1\validar_numero.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588648371 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\calculos_realizados.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588701734 c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\prototipos.h
+
+1588635876 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\funcion_division.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588634301 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\funcion_factorial.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588634301 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\funcion_multiplicacion.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588635611 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\funcion_resta.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588634301 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\funcion_suma.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588703869 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\informar_resultados.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588704022 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588703302 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\menu_opciones.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1588691254 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\resetear_flags.c
+
+1588703874 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\trabajo practico 1 - rehecho\validar_numero.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
