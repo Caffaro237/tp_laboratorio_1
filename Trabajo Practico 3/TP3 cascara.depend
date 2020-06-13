@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1592090548 source:c:\users\facu\desktop\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Funciones.h"
+
+1592089591 c:\users\facu\desktop\win_64\linkedlist.h
+
+1592089379 c:\users\facu\desktop\win_64\employee.h
+
+1592089615 source:c:\users\facu\desktop\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
+1592089699 source:c:\users\facu\desktop\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1592089950 source:c:\users\facu\desktop\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
+1592089376 c:\users\facu\desktop\win_64\controller.h
+
+1592089475 c:\users\facu\desktop\win_64\funciones.h
+	"LinkedList.h"
+	"Employee.h"
+
+1592088762 source:c:\users\facu\desktop\win_64\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1591926891 c:\users\facu\desktop\win_64\parser.h
+
+1592088761 source:c:\users\facu\desktop\win_64\menu_orden.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
+1592088761 source:c:\users\facu\desktop\win_64\menu_modificacion.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
