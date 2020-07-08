@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1593977048 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593912654 c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\linkedlist.h
+
+1593979267 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1593979376 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"prototipos.h"
+
+1593912752 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\cargar_datos_csv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"prototipos.h"
+
+1593981586 c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\prototipos.h
+	"LinkedList.h"
+
+1593916545 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\mostrar_empleado_p.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+	"LinkedList.h"
+
+1593891313 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\mostrar_empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+	"LinkedList.h"
+
+1593977316 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+	"LinkedList.h"
+
+1593981483 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\alta_empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"prototipos.h"
+
+1593899464 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\normalizar_nombres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"prototipos.h"
+
+1593916700 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\baja_empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"prototipos.h"
+
+1593912254 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"prototipos.h"
+
+1593918087 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\modificar_empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"prototipos.h"
+
+1593918330 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\menu_modificacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"prototipos.h"
+
+1593978208 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\guardar_datos_csv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"prototipos.h"
+
+1593981276 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\trabajo practico 4\trabajo practico 4\tp4\menu_alta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"prototipos.h"
+
